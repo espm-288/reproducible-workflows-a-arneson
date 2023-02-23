@@ -2,7 +2,10 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
+author: Alicia Arneson
 ---
+
+You can add sparkles to a github commit message with :sparkles:
 
 ## Quarto
 
